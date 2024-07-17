@@ -1,0 +1,19 @@
+#Matrix{
+    height: 52vh;
+    width: 52vh;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    flex-wrap: wrap;
+}
+.color{
+    background-color: rgb(21, 213, 123) ;
+}
+.colorOrange{
+    background-color: rgb(233, 109, 27) ;
+}
+.subMatrix{
+    height: 16vh;
+    width: 16vh;
+    border: 2px solid black;
+}
